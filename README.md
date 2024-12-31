@@ -10,19 +10,19 @@ The project encompasses all stages of fine-tuning, including:
 
 The development process follows an iterative approach to continuously enhance the model's performance and expand its capabilities.
 
----
+
 
 ## Key Features
 - **Domain-Specific Knowledge**: The model is fine-tuned to address financial queries and tasks.
 - **Versatile Applications**: Designed to solve real-world problems such as financial analysis, sentiment analysis, and classification.
 - **Scalable Improvements**: Iterative updates to incorporate better data and expand the model's abilities.
 
----
+
 
 ## Dataset
 The fine-tuning process utilizes the **[sujet-ai/Sujet-Finance-Instruct-177k](https://huggingface.co/datasets/sujet-ai/Sujet-Finance-Instruct-177k)** dataset, containing 177,597 entries. The dataset is curated for training models on various finance-related tasks, ensuring comprehensive domain-specific knowledge.
 
----
+
 
 ## Tools & Frameworks
 The following tools and libraries were used:
@@ -30,7 +30,7 @@ The following tools and libraries were used:
 - **PyTorch**: As the core framework for training and fine-tuning the model.
 - **Transformers Library**: For implementing state-of-the-art transformer-based models.
 
----
+
 
 ## Project Workflow
 1. **Data Preparation**:
@@ -51,7 +51,7 @@ The following tools and libraries were used:
      - Sentiment analysis.
      - Financial classification.
 
----
+
 
 ## Current Status
 The project is **under active development**. Iterative updates are being made to improve:
@@ -59,45 +59,13 @@ The project is **under active development**. Iterative updates are being made to
 - Model performance on diverse financial tasks.
 - Generalization across real-world financial contexts.
 
----
 
-## Usage
-### Clone the Repository
-```bash
-git clone https://github.com/your-username/Finance-Specialist-LLM.git
-cd Finance-Specialist-LLM
-```
-
-### Install Dependencies
-Ensure you have Python installed. Then install the required libraries:
-```bash
-pip install -r requirements.txt
-```
-
-### Run the Project
-Open the Jupyter Notebook file `Finance_Specialist_AI.ipynb` to explore the code and replicate the fine-tuning process.
-
----
-
-## Contributions
-Contributions to this project are welcome! Feel free to:
-- Fork the repository.
-- Create a feature branch.
-- Submit a pull request with your changes.
-
----
-
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
 
 ## Contact
 For questions or feedback, feel free to reach out:
-- **Email**: your-email@example.com
-- **GitHub**: [your-username](https://github.com/your-username)
+- **Email**: jatingupta.abc@gmail.com
 
----
+
 
 ## Acknowledgments
 Special thanks to:
@@ -105,4 +73,3 @@ Special thanks to:
 - **Hugging Face** for providing robust tools and datasets.
 - The contributors of the Sujet-Finance-Instruct-177k dataset for their efforts in curating domain-specific data.
 
-# AI-Based-Financial-Advisor
